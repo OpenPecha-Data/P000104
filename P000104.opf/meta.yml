@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །རྫོགས་པ་ཆེན་པོ་ཨ་ཏི་ཟབ་དོན་སྙིང་པོའི་ཁྲིད་དམིགས་ཟིན་བྲིས་སུ་སྤེལ་བ་ཀུན་བཟང་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  authors:
+  - མཛད་པ་པོ། རྗེ་བཙུན་མི་འགྱུར་དཔལ་སྒྲོན།
+  sku: SHE-RTD-023
+  layers:
+  - book_title
+  - author
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: An Ornament to the Wisdom of Samantabhandra:A Note on the Essense of the Profound
+      Unsurpassable Meaning of the Great Perfection – Ati Zabdon
+    bo: རྫོགས་པ་ཆེན་པོ་ཨ་ཏི་ཟབ་དོན་སྙིང་པོའི་ཁྲིད་དམིགས་ཟིན་བྲིས་སུ་སྤེལ་བ་ཀུན་བཟང་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Treasury of Precious Termas–  Book 23
+    bo: རིན་ཆེན་གཏེར་མཛོད།–  དེབ། ༢༣
+  author:
+    en: Jetsun Mingyur Paldron
+    bo: རྗེ་བཙུན་མི་འགྱུར་དཔལ་སྒྲོན།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-RTD-023
+  category:
+    en: Dzogchen
+    bo: རྫོགས་ཆེན།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-023.epub
+  description:
+    en: ''
+    bo: ''
