@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000104
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །རྫོགས་པ་ཆེན་པོ་ཨ་ཏི་ཟབ་དོན་སྙིང་པོའི་ཁྲིད་དམིགས་ཟིན་བྲིས་སུ་སྤེལ་བ་ཀུན་བཟང་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ།།
   authors:
   - མཛད་པ་པོ། རྗེ་བཙུན་མི་འགྱུར་དཔལ་སྒྲོན།
-  sku: SHE-RTD-023
   layers:
   - book_title
   - author
   - quotation
   - yigchung
+  id: SHE-RTD-023
 web_metadata:
   title:
     en: An Ornament to the Wisdom of Samantabhandra:A Note on the Essense of the Profound
